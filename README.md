@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # seo-refactor-skidmore
 As an assignment for Ohio State Univeristy Bootcamp. We were assigned to refactor this code to meet HTML 5 & Semantic HTML 
 requirments. 
